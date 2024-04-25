@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ftcyazilim.com.tr/images/article/mobil_programlama.jpg)
+![MasterHead](https://www.ftcyazilim.com.tr/images/article/mobil_programlama.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a game and android developer from Türkiye</h3>
 
